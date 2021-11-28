@@ -4,7 +4,7 @@
 I made this app to show/sell some of my projects and other items that i get from collaborations. The reason i didn't just make a website was the fact that i wanted to challenge myself and because im familer with C# to make games on Unity game engine.
 
 ## Install Instructions:
-1. [Download]() or Gitclone this project and extract files
+1. [Download](https://cdn.discordapp.com/attachments/753609345610154034/914661032784437318/CookiesApp.zip) or Gitclone this project and extract files
  
 2. Run `Setup.exe` to install and create a desktop shortcut
 
